@@ -1,0 +1,17 @@
+{
+  "global_input_rows": 20347,
+  "extended_candidate_rows": 10844,
+  "in_domain_before_dedup_rows": 10256,
+  "core_in_domain_deduplicated_rows": 10252,
+  "complete_14_feature_rows": 9610,
+  "out_of_domain_warning_rows": 588,
+  "potential_duplicate_rows": 4,
+  "references_in_core": 39,
+  "source_ids_in_core": 45,
+  "domain_quantile": 0.95,
+  "domain_threshold": 1.318724903248342,
+  "training_rows": 970,
+  "training_locations": 20,
+  "global_sha256": "239d25306ddf8593e3c729b1069a4ff0a2ae8f0fda14fff48b5fb191404553a2",
+  "training_sha256": "042994d245b7ced8bb1dda6d963657f5f633bbd22d91cfbcf0fa32a1329e512e"
+}

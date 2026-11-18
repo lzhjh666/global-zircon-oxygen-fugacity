@@ -1,0 +1,13 @@
+{
+  "raw_rows": 614761,
+  "zircon_rows": 610097,
+  "age_0_4000": 487706,
+  "detrital_keyword": 45042,
+  "at_least_12_features": 2808,
+  "zircon_qc_pass": 2260,
+  "in_domain": 2083,
+  "recommended_new": 1684,
+  "same_publication_review": 142,
+  "warning": 434,
+  "strict_fingerprint_overlap": 257
+}

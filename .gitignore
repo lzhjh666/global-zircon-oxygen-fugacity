@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+
+# Local credentials and private keys
+*.pem
+*.key
+*.p12
+*.pfx
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs and temporary outputs
+*.log
+*.tmp
+*.bak
+*.part
+*.part*
+.ipynb_checkpoints/
+
+# Local-only inputs (never commit private or publisher-restricted copies)
+data/raw/
+data/private/
+data/local/

@@ -1,0 +1,11 @@
+{
+  "status": "COMPLETED",
+  "training_performed": false,
+  "prediction_performed": false,
+  "input_rows": 10879,
+  "sources": 55,
+  "references": 48,
+  "original_domain_pass_rate": 1.0,
+  "central_domain_definition": "DOMAIN_NN_DISTANCE / DOMAIN_THRESHOLD < 0.8",
+  "window_width_ma": 100
+}

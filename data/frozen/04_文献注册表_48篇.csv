@@ -1,0 +1,49 @@
+﻿REFERENCE_ID,Reference,锆石数,来源单元数,年龄最小_Ma,年龄最大_Ma,数据入口,上级数据集引用
+REF_001,Armandola et al 2018,276,1,1113.0,3600.0,Wang2025_compilation,"Wang et al. (2025) Supplementary Table S2, DOI:10.1130/B38079.1"
+REF_002,Attia et al 2020,785,1,97.0,2826.0,Wang2025_compilation,"Wang et al. (2025) Supplementary Table S2, DOI:10.1130/B38079.1"
+REF_003,Balica et al 2020,683,4,22.5,3998.8,Wang2025_compilation,"Wang et al. (2025) Supplementary Table S2, DOI:10.1130/B38079.1"
+REF_004,Barber et al 2019,93,1,68.6,2474.0,Wang2025_compilation,"Wang et al. (2025) Supplementary Table S2, DOI:10.1130/B38079.1"
+REF_005,Bell et al 2016,111,1,3351.0,3993.9,Wang2025_compilation,"Wang et al. (2025) Supplementary Table S2, DOI:10.1130/B38079.1"
+REF_006,Bold et al 2016 AJS,309,1,692.81,3699.0,Wang2025_compilation,"Wang et al. (2025) Supplementary Table S2, DOI:10.1130/B38079.1"
+REF_007,Bold et al 2016 Lith,166,1,421.0,2900.0,Wang2025_compilation,"Wang et al. (2025) Supplementary Table S2, DOI:10.1130/B38079.1"
+REF_008,"Cao Huawen et al., 2018",363,1,213.7,3245.7,Wang2025_compilation,"Wang et al. (2025) Supplementary Table S2, DOI:10.1130/B38079.1"
+REF_009,Carley et al 2011,28,1,0.008104,0.038649,Wang2025_compilation,"Wang et al. (2025) Supplementary Table S2, DOI:10.1130/B38079.1"
+REF_010,Guo Liang_GR_2017,332,1,465.0,3020.0,Wang2025_compilation,"Wang et al. (2025) Supplementary Table S2, DOI:10.1130/B38079.1"
+REF_011,Herriott et al 2019,789,1,145.9,213.7,Wang2025_compilation,"Wang et al. (2025) Supplementary Table S2, DOI:10.1130/B38079.1"
+REF_012,Keeman et al 2020,358,1,505.0,3109.0,Wang2025_compilation,"Wang et al. (2025) Supplementary Table S2, DOI:10.1130/B38079.1"
+REF_013,Khelen et al 2019,10,1,2928.0,3361.0,Wang2025_compilation,"Wang et al. (2025) Supplementary Table S2, DOI:10.1130/B38079.1"
+REF_014,Kozlik et al 2016,8,1,133.0,345.0,Wang2025_compilation,"Wang et al. (2025) Supplementary Table S2, DOI:10.1130/B38079.1"
+REF_015,Liu Hangyu_EPSL_2022,1508,1,69.0,3462.0,Wang2025_compilation,"Wang et al. (2025) Supplementary Table S2, DOI:10.1130/B38079.1"
+REF_016,Lu et al 2016,64,1,90.1,2379.7,Wang2025_compilation,"Wang et al. (2025) Supplementary Table S2, DOI:10.1130/B38079.1"
+REF_017,Lu et al 2019,387,1,2548.0,3602.0,Wang2025_compilation,"Wang et al. (2025) Supplementary Table S2, DOI:10.1130/B38079.1"
+REF_018,Macdonald et al 2018,68,1,614.0,760.0,Wang2025_compilation,"Wang et al. (2025) Supplementary Table S2, DOI:10.1130/B38079.1"
+REF_019,McKenzie et al 2018,315,1,544.0,3601.0,Wang2025_compilation,"Wang et al. (2025) Supplementary Table S2, DOI:10.1130/B38079.1"
+REF_020,Mueller and Wooden 2012,45,1,3239.444889,3980.986115,Wang2025_compilation,"Wang et al. (2025) Supplementary Table S2, DOI:10.1130/B38079.1"
+REF_021,Nie Xiaomei_JAES_2016,143,1,342.0,2490.0,Wang2025_compilation,"Wang et al. (2025) Supplementary Table S2, DOI:10.1130/B38079.1"
+REF_022,Obrist-Farner et al 2020,18,1,10.90635329,12.4650332,Wang2025_compilation,"Wang et al. (2025) Supplementary Table S2, DOI:10.1130/B38079.1"
+REF_023,Ranjan et al 2020,36,1,3272.0,3967.0,Wang2025_compilation,"Wang et al. (2025) Supplementary Table S2, DOI:10.1130/B38079.1"
+REF_024,Reno et al 2018,66,1,1697.67186,2332.274485,Wang2025_compilation,"Wang et al. (2025) Supplementary Table S2, DOI:10.1130/B38079.1"
+REF_025,Rivera et al 2016,257,1,0.511923918,61.54133053,Wang2025_compilation,"Wang et al. (2025) Supplementary Table S2, DOI:10.1130/B38079.1"
+REF_026,Schmitt et al 2011,10,1,0.0327,0.0327,Wang2025_compilation,"Wang et al. (2025) Supplementary Table S2, DOI:10.1130/B38079.1"
+REF_027,Smith et al 2015,1282,1,1012.0,3261.0,Wang2025_compilation,"Wang et al. (2025) Supplementary Table S2, DOI:10.1130/B38079.1"
+REF_028,Sutherland et al 2016,27,3,3.2,244.0,Wang2025_compilation,"Wang et al. (2025) Supplementary Table S2, DOI:10.1130/B38079.1"
+REF_029,Verbaas et al 2018,37,1,1692.0,2529.0,Wang2025_compilation,"Wang et al. (2025) Supplementary Table S2, DOI:10.1130/B38079.1"
+REF_030,Wang Hao_GCA_2020,74,1,884.0,3571.0,Wang2025_compilation,"Wang et al. (2025) Supplementary Table S2, DOI:10.1130/B38079.1"
+REF_031,Wang Jialin_SR_2021,625,1,213.0,975.2,Wang2025_compilation,"Wang et al. (2025) Supplementary Table S2, DOI:10.1130/B38079.1"
+REF_032,Wang Qian_GF_2020,295,1,261.0,2779.0,Wang2025_compilation,"Wang et al. (2025) Supplementary Table S2, DOI:10.1130/B38079.1"
+REF_033,Wang et al 2016,220,1,443.2,3699.1,Wang2025_compilation,"Wang et al. (2025) Supplementary Table S2, DOI:10.1130/B38079.1"
+REF_034,Xie Shiwen_Lithos_2012,171,1,123.0,3303.0,Wang2025_compilation,"Wang et al. (2025) Supplementary Table S2, DOI:10.1130/B38079.1"
+REF_035,Yuan et al 2018,1,1,1601.0,1601.0,Wang2025_compilation,"Wang et al. (2025) Supplementary Table S2, DOI:10.1130/B38079.1"
+REF_036,Zhang Yu xiu_IGR_2015,152,1,232.0,2717.0,Wang2025_compilation,"Wang et al. (2025) Supplementary Table S2, DOI:10.1130/B38079.1"
+REF_037,Zhang et al 2017,96,1,158.1,861.6,Wang2025_compilation,"Wang et al. (2025) Supplementary Table S2, DOI:10.1130/B38079.1"
+REF_038,Zhu et al 2020,35,2,353.0,605.0,Wang2025_compilation,"Wang et al. (2025) Supplementary Table S2, DOI:10.1130/B38079.1"
+REF_039,[18958] HUANG HU (2014),11,1,255.0,264.0,GEOROC_V10_additional,GEOROC V10 zircon compilation; original citation retained in Reference/CITATION
+REF_040,[22188] SCHAEN A. J. (2017),50,1,6.4,6.94,GEOROC_V10_additional,GEOROC V10 zircon compilation; original citation retained in Reference/CITATION
+REF_041,[23047] LI HUAN (2019),14,1,767.0,2477.0,GEOROC_V10_additional,GEOROC V10 zircon compilation; original citation retained in Reference/CITATION
+REF_042,[25362] LI SHUANG-QING (2021),30,1,0.261620500487004,2.07396195386564,GEOROC_V10_additional,GEOROC V10 zircon compilation; original citation retained in Reference/CITATION
+REF_043,[25556] DENG YULIN (2021),214,2,154.106445338626,756.409979292486,GEOROC_V10_additional,GEOROC V10 zircon compilation; original citation retained in Reference/CITATION
+REF_044,[26005] ORVIK A. A. (2022),6,1,2574.4,3022.2,GEOROC_V10_additional,GEOROC V10 zircon compilation; original citation retained in Reference/CITATION
+REF_045,[26123] MINTRONE M. (2022),195,1,82.2,3189.0,GEOROC_V10_additional,GEOROC V10 zircon compilation; original citation retained in Reference/CITATION
+REF_046,[26740] SUN CHAO (2023),39,1,386.0,421.0,GEOROC_V10_additional,GEOROC V10 zircon compilation; original citation retained in Reference/CITATION
+REF_047,[28600] WANG XIAODONG (2024),68,1,1201.0,2573.0,GEOROC_V10_additional,GEOROC V10 zircon compilation; original citation retained in Reference/CITATION
+REF_048,van der Meer et al 2019,9,1,12.1,18.9,Wang2025_compilation,"Wang et al. (2025) Supplementary Table S2, DOI:10.1130/B38079.1"

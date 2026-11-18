@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software or its aggregate results, cite this repository version and the original publications listed in docs/DATA_AVAILABILITY_AND_LICENSES.md."
+title: "Global Zircon Magmatic Oxygen Fugacity Reconstruction"
+type: software
+version: "1.0.0"
+date-released: "2026-11-18"
+abstract: >-
+  Research code and frozen inference models for zircon geochemistry-based
+  magmatic oxygen fugacity (Delta FMQ) prediction, global age-binned analysis,
+  source-level sensitivity testing, and regional validation.

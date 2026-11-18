@@ -1,0 +1,56 @@
+﻿SOURCE_ID,REFERENCE_ID,Reference,DATA_ORIGIN,锆石数,年龄最小_Ma,年龄最大_Ma,14元素完整数,区域
+Armandola et al 2018 || Australia || Western Australia,REF_001,Armandola et al 2018,Wang2025_compilation,276,1113.0,3600.0,276,Australia
+Attia et al 2020 || North America || Western North America,REF_002,Attia et al 2020,Wang2025_compilation,785,97.0,2826.0,722,North America
+Balica et al 2020 || Africa || Africa,REF_003,Balica et al 2020,Wang2025_compilation,93,2679.6,3308.6,93,Africa
+Balica et al 2020 || Asia || China,REF_003,Balica et al 2020,Wang2025_compilation,134,119.2,3235.9,134,Asia
+Balica et al 2020 || Australia || Western Australia,REF_003,Balica et al 2020,Wang2025_compilation,281,3048.4,3998.8,280,Australia
+Balica et al 2020 || Europe || Europe,REF_003,Balica et al 2020,Wang2025_compilation,175,22.5,3067.4,175,Europe
+Barber et al 2019 || Asia || Iran,REF_004,Barber et al 2019,Wang2025_compilation,93,68.6,2474.0,93,Asia
+Bell et al 2016 || Australia || Western Australia,REF_005,Bell et al 2016,Wang2025_compilation,111,3351.0,3993.9,110,Australia
+Bold et al 2016 AJS || Asia || Mongolia,REF_006,Bold et al 2016 AJS,Wang2025_compilation,309,692.81,3699.0,299,Asia
+Bold et al 2016 Lith || Asia || Mongolia,REF_007,Bold et al 2016 Lith,Wang2025_compilation,166,421.0,2900.0,162,Asia
+"Cao Huawen et al., 2018 || Asia || Tethyan Himalaya",REF_008,"Cao Huawen et al., 2018",Wang2025_compilation,363,213.7,3245.7,349,Asia
+Carley et al 2011 || Iceland || Iceland,REF_009,Carley et al 2011,Wang2025_compilation,28,0.008104,0.038649,28,Iceland
+GEOROC || [18958] HUANG HU (2014) || EMEISHAN / YUNNAN PROVINCE / LINGHAO FORMATION,REF_039,[18958] HUANG HU (2014),GEOROC_V10_additional,11,255.0,264.0,11,EMEISHAN / YUNNAN PROVINCE / LINGHAO FORMATION
+GEOROC || [22188] SCHAEN A. J. (2017) || ANDEAN ARC / SOUTHERN ANDEAN VOLCANIC ZONE / CHILE / RISCO BAYO-HUEMUL PLUTONIC COMPLEX,REF_040,[22188] SCHAEN A. J. (2017),GEOROC_V10_additional,50,6.4,6.94,50,ANDEAN ARC / SOUTHERN ANDEAN VOLCANIC ZONE / CHILE / RISCO BAYO-HUEMUL PLUTONIC COMPLEX
+GEOROC || [23047] LI HUAN (2019) || CENTRAL ASIAN FOLDBELT - PROTEROZOIC / CHINA - PROTEROZOIC / HUNAN PROVINCE / BANXI GROUP,REF_041,[23047] LI HUAN (2019),GEOROC_V10_additional,14,767.0,2477.0,14,CENTRAL ASIAN FOLDBELT - PROTEROZOIC / CHINA - PROTEROZOIC / HUNAN PROVINCE / BANXI GROUP
+GEOROC || [25362] LI SHUANG-QING (2021) || CENTRAL ASIAN FOLDBELT - CENOZOIC/QUATERNARY / CAMBODIA - CENOZOIC/QUATERNARY / RATANAKIRI,REF_042,[25362] LI SHUANG-QING (2021),GEOROC_V10_additional,30,0.261620500487004,2.07396195386564,0,CENTRAL ASIAN FOLDBELT - CENOZOIC/QUATERNARY / CAMBODIA - CENOZOIC/QUATERNARY / RATANAKIRI
+GEOROC || [25556] DENG YULIN (2021) || CENTRAL ASIAN FOLDBELT - MESOZOIC / CHINA - MESOZOIC / TIBET / BIMA FORMATION,REF_043,[25556] DENG YULIN (2021),GEOROC_V10_additional,204,154.106445338626,231.356733214327,168,CENTRAL ASIAN FOLDBELT - MESOZOIC / CHINA - MESOZOIC / TIBET / BIMA FORMATION
+GEOROC || [25556] DENG YULIN (2021) || CENTRAL ASIAN FOLDBELT - MESOZOIC / CHINA - MESOZOIC / TIBET / YEBA FORMATION,REF_043,[25556] DENG YULIN (2021),GEOROC_V10_additional,10,164.936021835364,756.409979292486,10,CENTRAL ASIAN FOLDBELT - MESOZOIC / CHINA - MESOZOIC / TIBET / YEBA FORMATION
+GEOROC || [26005] ORVIK A. A. (2022) || BALTIC SHIELD / KARELIAN PROVINCE / KARASJOK GREENSTONE BELT / GALLOJAVRI INTRUSION,REF_044,[26005] ORVIK A. A. (2022),GEOROC_V10_additional,6,2574.4,3022.2,6,BALTIC SHIELD / KARELIAN PROVINCE / KARASJOK GREENSTONE BELT / GALLOJAVRI INTRUSION
+GEOROC || [26123] MINTRONE M. (2022) || ALPS_SARDINIA_CORSICA / CENTRAL ALPS / SOUTHERN STEEP BELT / GRUF COMPLEX,REF_045,[26123] MINTRONE M. (2022),GEOROC_V10_additional,195,82.2,3189.0,195,ALPS_SARDINIA_CORSICA / CENTRAL ALPS / SOUTHERN STEEP BELT / GRUF COMPLEX
+GEOROC || [26740] SUN CHAO (2023) || CENTRAL ASIAN FOLDBELT - PALEOZOIC / MONGOLIA - PALEOZOIC / GOBI ALTAI / KANGBUTIEBAO FORMATION,REF_046,[26740] SUN CHAO (2023),GEOROC_V10_additional,39,386.0,421.0,0,CENTRAL ASIAN FOLDBELT - PALEOZOIC / MONGOLIA - PALEOZOIC / GOBI ALTAI / KANGBUTIEBAO FORMATION
+GEOROC || [28600] WANG XIAODONG (2024) || CENTRAL ASIAN FOLDBELT - PROTEROZOIC / CHINA - PROTEROZOIC / QINGHAI PROVINCE,REF_047,[28600] WANG XIAODONG (2024),GEOROC_V10_additional,68,1201.0,2573.0,0,CENTRAL ASIAN FOLDBELT - PROTEROZOIC / CHINA - PROTEROZOIC / QINGHAI PROVINCE
+Guo Liang_GR_2017 || Asia || Himalayan,REF_010,Guo Liang_GR_2017,Wang2025_compilation,332,465.0,3020.0,332,Asia
+Herriott et al 2019 || North America || Western North America,REF_011,Herriott et al 2019,Wang2025_compilation,789,145.9,213.7,787,North America
+Keeman et al 2020 || Australia || Southern Australia,REF_012,Keeman et al 2020,Wang2025_compilation,358,505.0,3109.0,0,Australia
+Khelen et al 2019 || Asia || Southern Asia,REF_013,Khelen et al 2019,Wang2025_compilation,10,2928.0,3361.0,10,Asia
+Kozlik et al 2016 || Europe || Europe,REF_014,Kozlik et al 2016,Wang2025_compilation,8,133.0,345.0,8,Europe
+Liu Hangyu_EPSL_2022 || Asia || Thailand,REF_015,Liu Hangyu_EPSL_2022,Wang2025_compilation,1508,69.0,3462.0,1499,Asia
+Lu et al 2016 || REGION_MISSING || SUBREGION_MISSING,REF_016,Lu et al 2016,Wang2025_compilation,64,90.1,2379.7,64,
+Lu et al 2019 || Australia || Western Australia,REF_017,Lu et al 2019,Wang2025_compilation,387,2548.0,3602.0,387,Australia
+Macdonald et al 2018 || North America || Western North America,REF_018,Macdonald et al 2018,Wang2025_compilation,68,614.0,760.0,67,North America
+McKenzie et al 2018 || Asia || Southern Asia,REF_019,McKenzie et al 2018,Wang2025_compilation,315,544.0,3601.0,315,Asia
+Mueller and Wooden 2012 || North America || Western North America,REF_020,Mueller and Wooden 2012,Wang2025_compilation,45,3239.444889,3980.986115,44,North America
+Nie Xiaomei_JAES_2016 || Asia || SW China,REF_021,Nie Xiaomei_JAES_2016,Wang2025_compilation,143,342.0,2490.0,143,Asia
+Obrist-Farner et al 2020 || South America || South America,REF_022,Obrist-Farner et al 2020,Wang2025_compilation,18,10.90635329,12.4650332,18,South America
+Ranjan et al 2020 || Asia || Southern Asia,REF_023,Ranjan et al 2020,Wang2025_compilation,36,3272.0,3967.0,36,Asia
+Reno et al 2018 || Australia || Central Australia,REF_024,Reno et al 2018,Wang2025_compilation,66,1697.67186,2332.274485,66,Australia
+Rivera et al 2016 || North America || Western North America,REF_025,Rivera et al 2016,Wang2025_compilation,257,0.511923918,61.54133053,257,North America
+Schmitt et al 2011 || Juan de Fuca Ridge || Juan de Fuca Ridge,REF_026,Schmitt et al 2011,Wang2025_compilation,10,0.0327,0.0327,0,Juan de Fuca Ridge
+Smith et al 2015 || North America || Western North America,REF_027,Smith et al 2015,Wang2025_compilation,1282,1012.0,3261.0,1270,North America
+Sutherland et al 2016 || Asia || Russia,REF_028,Sutherland et al 2016,Wang2025_compilation,9,10.0,11.9,9,Asia
+Sutherland et al 2016 || Asia || SE Asia,REF_028,Sutherland et al 2016,Wang2025_compilation,6,3.2,4.2,6,Asia
+Sutherland et al 2016 || Australia || Eastern Australia,REF_028,Sutherland et al 2016,Wang2025_compilation,12,60.4,244.0,12,Australia
+Verbaas et al 2018 || North America || Western North America,REF_029,Verbaas et al 2018,Wang2025_compilation,37,1692.0,2529.0,37,North America
+Wang Hao_GCA_2020 || Africa || Kaapvaal,REF_030,Wang Hao_GCA_2020,Wang2025_compilation,74,884.0,3571.0,74,Africa
+Wang Jialin_SR_2021 || Aisa || Junggar,REF_031,Wang Jialin_SR_2021,Wang2025_compilation,625,213.0,975.2,623,Aisa
+Wang Qian_GF_2020 || Asia || NW Chuna,REF_032,Wang Qian_GF_2020,Wang2025_compilation,295,261.0,2779.0,294,Asia
+Wang et al 2016 || Asia || Southern Asia,REF_033,Wang et al 2016,Wang2025_compilation,220,443.2,3699.1,220,Asia
+Xie Shiwen_Lithos_2012 || Asia || China,REF_034,Xie Shiwen_Lithos_2012,Wang2025_compilation,171,123.0,3303.0,170,Asia
+Yuan et al 2018 || Asia || China,REF_035,Yuan et al 2018,Wang2025_compilation,1,1601.0,1601.0,1,Asia
+Zhang Yu xiu_IGR_2015 || Asia || Tiberan Plateau,REF_036,Zhang Yu xiu_IGR_2015,Wang2025_compilation,152,232.0,2717.0,0,Asia
+Zhang et al 2017 || Asia || China,REF_037,Zhang et al 2017,Wang2025_compilation,96,158.1,861.6,96,Asia
+Zhu et al 2020 || Australia || Eastern Australia,REF_038,Zhu et al 2020,Wang2025_compilation,18,353.0,529.0,18,Australia
+Zhu et al 2020 || Europe || Europe,REF_038,Zhu et al 2020,Wang2025_compilation,17,484.0,605.0,17,Europe
+van der Meer et al 2019 || Zealandia || New Zealand,REF_048,van der Meer et al 2019,Wang2025_compilation,9,12.1,18.9,9,Zealandia

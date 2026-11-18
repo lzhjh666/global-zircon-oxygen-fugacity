@@ -1,0 +1,11 @@
+{
+  "status": "COMPLETED",
+  "training_performed": false,
+  "input_rows": 10879,
+  "sources": 55,
+  "kohistan_rows": 113,
+  "kohistan_bodies": 5,
+  "iterations": 2000,
+  "seed": 20261118,
+  "primary_scenario": "来源分层误差＋来源等权"
+}

@@ -1,0 +1,10 @@
+{
+  "status": "COMPLETED",
+  "training_performed": false,
+  "input_rows": 10879,
+  "sources": 55,
+  "references": 48,
+  "iterations": 2000,
+  "seed": 20261118,
+  "sklearn": "1.3.2"
+}
